@@ -21,28 +21,32 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255, 255, 255, 0.623);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
+  text-align: center
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color:rgb(75, 20, 52)
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color:rgb(75, 20, 52)
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center
 }
 
 img {
@@ -56,7 +60,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(28, 113, 211);
   text-decoration: none;
 }
 
